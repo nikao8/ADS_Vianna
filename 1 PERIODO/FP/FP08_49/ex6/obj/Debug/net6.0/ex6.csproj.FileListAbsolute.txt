@@ -1,0 +1,15 @@
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ex6
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ex6.deps.json
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ex6.runtimeconfig.json
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ex6.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ref/ex6.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/bin/Debug/net6.0/ex6.pdb
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.csproj.AssemblyReference.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.AssemblyInfoInputs.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.AssemblyInfo.cs
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.csproj.CoreCompileInputs.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ref/ex6.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.pdb
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP08_49/ex6/obj/Debug/net6.0/ex6.genruntimeconfig.cache

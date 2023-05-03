@@ -1,0 +1,16 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.csprojAssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.runtimeconfig.dev.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ref\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\bin\Debug\net5.0\ex3.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ref\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\1 SEMESTRE\FP\FP06_112\ex3\obj\Debug\net5.0\ex3.genruntimeconfig.cache

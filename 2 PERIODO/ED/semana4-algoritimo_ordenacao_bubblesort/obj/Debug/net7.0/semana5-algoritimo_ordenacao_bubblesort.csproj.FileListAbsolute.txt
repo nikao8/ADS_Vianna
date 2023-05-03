@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\bin\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\bin\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\bin\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\bin\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\bin\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\refint\semana5-algoritimo_ordenacao_bubblesort.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\semana5-algoritimo_ordenacao_bubblesort.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana5-algoritimo_ordenacao_bubblesort\obj\Debug\net7.0\ref\semana5-algoritimo_ordenacao_bubblesort.dll

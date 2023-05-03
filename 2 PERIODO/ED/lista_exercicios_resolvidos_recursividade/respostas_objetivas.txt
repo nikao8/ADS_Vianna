@@ -1,0 +1,53 @@
+Questões fechadas:
+
+1. Veja as afirmações abaixo sobre recursividade em procedimentos e
+funções.
+(I) Recursividade é um método de resolução de problemas que se
+baseia na repetição de tarefas.
+(II) Recursividade é um método de resolução de problemas que se
+baseia em funções ou procedimentos que chamam a si mesmos.
+(III) A recursão utiliza chamadas de funções ou procedimentos,
+enquanto a repetição utiliza laços.
+(IV) A recursão utiliza laços, enquanto a repetição utiliza chamadas de
+funções ou procedimentos.
+(V) Uma condição de parada é necessária para a recursão.
+Assinale a alternativa que contém as afirmativas corretas:
+a) Somente estão corretas as afirmativas I e II.
+b) Somente estão corretas as afirmativas I, II e III.
+c) Somente estão corretas as afirmativas II e III.
+d) Somente estão corretas as afirmativas II, III e IV.
+e) Somente estão corretas as afirmativas II, III e V.
+
+R: e
+
+2. Em que momento uma chamada recursiva é finalizada?
+a) Quando a condição de parada é atingida.
+b) Quando a condição de continuidade é atingida.
+c) Não há momento específico.
+
+R: a
+
+3. Como é possível solucionar o problema de uso excessivo de memória na
+recursão?
+a) Geralmente os problemas de desempenho são solucionados
+implementando o algoritmo recursivo de forma iterativa.
+b) Todos os problemas de uso excessivo de memória em algoritmos
+recursivos podem ser resolvidos implementando a recursão de
+forma mais eficiente.
+
+R: a
+
+4. Assinale a alternativa INCORRETA.
+a) A recursão é implementada em linguagens de programação
+através de chamadas de funções ou procedimentos.
+b) A vantagem de utilizar a recursão em vez de laços para resolver
+problemas é que a recursão é mais eficiente em termos de tempo
+e espaço.
+c) Para alguns problemas, a recursão permite a resolução de
+problemas complexos de forma elegante.
+d) É recomendável utilizar a recursão em problemas complexos com
+estruturas de dados aninhadas.
+e) O principal problema associado à recursão consiste no uso
+excessivo de memória.
+
+R: b

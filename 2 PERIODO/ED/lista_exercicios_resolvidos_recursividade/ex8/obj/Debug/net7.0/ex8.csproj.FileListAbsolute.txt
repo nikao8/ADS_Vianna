@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\bin\Debug\net7.0\ex8.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\bin\Debug\net7.0\ex8.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\bin\Debug\net7.0\ex8.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\bin\Debug\net7.0\ex8.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\bin\Debug\net7.0\ex8.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\refint\ex8.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ex8.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex8\obj\Debug\net7.0\ref\ex8.dll

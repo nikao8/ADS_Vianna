@@ -1,0 +1,16 @@
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.csproj.AssemblyReference.cache
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.exe
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.deps.json
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.dll
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ref\ex2.dll
+D:\fp\FP07_38\ex2\bin\Debug\net5.0\ex2.pdb
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.dll
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ref\ex2.dll
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.pdb
+D:\fp\FP07_38\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache

@@ -1,0 +1,30 @@
+D:\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.exe
+D:\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.deps.json
+D:\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.runtimeconfig.json
+D:\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.dll
+D:\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.pdb
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.csproj.AssemblyReference.cache
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.AssemblyInfoInputs.cache
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.AssemblyInfo.cs
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.csproj.CoreCompileInputs.cache
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.dll
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\refint\ex6.dll
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.pdb
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.genruntimeconfig.cache
+D:\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ref\ex6.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\bin\Debug\net7.0\ex6.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\refint\ex6.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ex6.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1\ex6\obj\Debug\net7.0\ref\ex6.dll

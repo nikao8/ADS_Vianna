@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Banco
+comment1.params=
+comment1.target=Banco()
+comment2.params=
+comment2.target=java.util.ArrayList\ getContas()
+comment3.params=c
+comment3.target=void\ addConta(Conta)
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+numComments=6

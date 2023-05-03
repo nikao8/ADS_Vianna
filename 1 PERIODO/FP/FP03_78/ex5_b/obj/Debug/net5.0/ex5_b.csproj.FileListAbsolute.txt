@@ -1,0 +1,16 @@
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.csprojAssemblyReference.cache
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.exe
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.deps.json
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.runtimeconfig.dev.json
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.dll
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ref\ex5_b.dll
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\bin\Debug\net5.0\ex5_b.pdb
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.dll
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ref\ex5_b.dll
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.pdb
+C:\Users\nicolas.marques\Documents\ADS_VIANNA\FP\FP03_78\ex5_b\obj\Debug\net5.0\ex5_b.genruntimeconfig.cache

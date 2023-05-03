@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\refint\semana6-algoritimo_ordenacao_selecao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_selecao.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_selecao\obj\Debug\net7.0\ref\semana6-algoritimo_ordenacao_selecao.dll

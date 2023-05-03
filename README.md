@@ -1,2 +1,3 @@
-# ADS_Vianna
-Repositório de códigos da faculdade de Análise em Desenvolvimento de Sistemas
+# Faculdade de Análise e Desenvolvimento de Sistemas
+
+### Destinado a códigos e exercicios propostos durante o curso.

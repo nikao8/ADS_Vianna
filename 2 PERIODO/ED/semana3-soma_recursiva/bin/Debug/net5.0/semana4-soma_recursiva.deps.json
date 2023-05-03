@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "semana4-soma_recursiva/1.0.0": {
+        "runtime": {
+          "semana4-soma_recursiva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semana4-soma_recursiva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

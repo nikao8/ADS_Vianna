@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Numeros
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Numeros\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=
+comment1.target=Numeros()
+comment2.params=
+comment2.target=int\ getInicial()
+comment3.params=nInicial
+comment3.target=void\ setInicial(int)
+comment4.params=
+comment4.target=int\ getFinal()
+comment5.params=nFinal
+comment5.target=void\ setFinal(int)
+comment6.params=nInicial\ nFinal
+comment6.target=int\ descobreMenor(int,\ int)
+comment7.params=nInicial\ nFinal
+comment7.target=int\ descobreMaior(int,\ int)
+comment8.params=
+comment8.target=int[]\ paresIntervalo()
+numComments=9

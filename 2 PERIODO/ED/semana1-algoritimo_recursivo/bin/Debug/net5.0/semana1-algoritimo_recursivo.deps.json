@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "semana1-algoritimo_recursivo/1.0.0": {
+        "runtime": {
+          "semana1-algoritimo_recursivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "semana1-algoritimo_recursivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

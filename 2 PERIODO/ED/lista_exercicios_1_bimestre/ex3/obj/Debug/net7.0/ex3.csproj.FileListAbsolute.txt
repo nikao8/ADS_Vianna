@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\bin\Debug\net7.0\ex3.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\bin\Debug\net7.0\ex3.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\bin\Debug\net7.0\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\bin\Debug\net7.0\ex3.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\refint\ex3.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\lista_exercicios_1_bimestre\ex3\obj\Debug\net7.0\ref\ex3.dll

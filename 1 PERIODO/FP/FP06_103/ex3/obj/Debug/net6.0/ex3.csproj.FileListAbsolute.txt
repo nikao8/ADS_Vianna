@@ -1,0 +1,15 @@
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ex3
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ex3.deps.json
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ex3.runtimeconfig.json
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ex3.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ref/ex3.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/bin/Debug/net6.0/ex3.pdb
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.csproj.AssemblyReference.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.AssemblyInfoInputs.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.AssemblyInfo.cs
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.csproj.CoreCompileInputs.cache
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ref/ex3.dll
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.pdb
+/home/nikao/Documentos/DEV/Estudos/ADS Vianna/1 SEMESTRE/FP/FP06_103/ex3/obj/Debug/net6.0/ex3.genruntimeconfig.cache

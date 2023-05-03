@@ -1,0 +1,16 @@
+D:\exfp\obj\Debug\net5.0\exfp.csproj.AssemblyReference.cache
+D:\exfp\obj\Debug\net5.0\exfp.GeneratedMSBuildEditorConfig.editorconfig
+D:\exfp\obj\Debug\net5.0\exfp.AssemblyInfoInputs.cache
+D:\exfp\obj\Debug\net5.0\exfp.AssemblyInfo.cs
+D:\exfp\obj\Debug\net5.0\exfp.csproj.CoreCompileInputs.cache
+D:\exfp\bin\Debug\net5.0\exfp.exe
+D:\exfp\bin\Debug\net5.0\exfp.deps.json
+D:\exfp\bin\Debug\net5.0\exfp.runtimeconfig.json
+D:\exfp\bin\Debug\net5.0\exfp.runtimeconfig.dev.json
+D:\exfp\bin\Debug\net5.0\exfp.dll
+D:\exfp\bin\Debug\net5.0\ref\exfp.dll
+D:\exfp\bin\Debug\net5.0\exfp.pdb
+D:\exfp\obj\Debug\net5.0\exfp.dll
+D:\exfp\obj\Debug\net5.0\ref\exfp.dll
+D:\exfp\obj\Debug\net5.0\exfp.pdb
+D:\exfp\obj\Debug\net5.0\exfp.genruntimeconfig.cache

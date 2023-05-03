@@ -1,0 +1,15 @@
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.csproj.AssemblyReference.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.AssemblyInfoInputs.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.AssemblyInfo.cs
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.csproj.CoreCompileInputs.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/bin/Debug/net7.0/ex2
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/bin/Debug/net7.0/ex2.deps.json
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/bin/Debug/net7.0/ex2.runtimeconfig.json
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/bin/Debug/net7.0/ex2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/bin/Debug/net7.0/ex2.pdb
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/refint/ex2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.pdb
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ex2.genruntimeconfig.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/lista_exercicios_1_bimestre/ex2/obj/Debug/net7.0/ref/ex2.dll

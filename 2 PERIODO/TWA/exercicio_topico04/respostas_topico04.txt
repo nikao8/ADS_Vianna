@@ -1,0 +1,19 @@
+Nomeie 5 propriedades ou métodos de elementos do DOM:
+
+    innerHTML - retorna ou define o conteúdo HTML dentro do elemento.
+    getElementById - obtém um elemento do DOM pelo seu ID.
+    parentNode - obtém o elemento pai do elemento atual.
+    addEventListener - adiciona um ouvinte de eventos a um elemento.
+    getElementsByTagName - retorna uma lista de elementos com uma tag específica.
+
+Nomeie 3 propriedades ou métodos de strings:
+
+    length - retorna o número de caracteres em uma string.
+    toUpperCase - converte a string para maiúscula.
+    substring - retorna uma parte da string com base na posição inicial e final especificada.
+
+Nomeie 3 métodos para fazer conversão de números:
+
+    parseInt() - converte uma string em um inteiro.
+    parseFloat() - converte uma string em um número de ponto flutuante.
+    Number() - converte um valor em número.

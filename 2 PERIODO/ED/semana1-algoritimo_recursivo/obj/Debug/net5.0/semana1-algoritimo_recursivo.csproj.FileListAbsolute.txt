@@ -1,0 +1,16 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.csprojAssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.runtimeconfig.dev.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\ref\semana1-algoritimo_recursivo.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\bin\Debug\net5.0\semana1-algoritimo_recursivo.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\ref\semana1-algoritimo_recursivo.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana1-algoritimo_recursivo\obj\Debug\net5.0\semana1-algoritimo_recursivo.genruntimeconfig.cache

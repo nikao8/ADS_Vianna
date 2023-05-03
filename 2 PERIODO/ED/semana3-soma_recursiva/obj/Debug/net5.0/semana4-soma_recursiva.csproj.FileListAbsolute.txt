@@ -1,0 +1,16 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.csprojAssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.runtimeconfig.dev.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\ref\semana4-soma_recursiva.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\bin\Debug\net5.0\semana4-soma_recursiva.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\ref\semana4-soma_recursiva.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana4-soma_recursiva\obj\Debug\net5.0\semana4-soma_recursiva.genruntimeconfig.cache

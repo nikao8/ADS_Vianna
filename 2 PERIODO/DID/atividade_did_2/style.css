@@ -1,0 +1,59 @@
+/*
+Exercicio paleta de cores:
+
+1 - Monocromática
+
+2 - O tema do site diz a respeito da tecnologia de containers Docker, as cores escolhidas são baseadas na própria logo do Docker, que
+é uma baleia, que remete ao mar, logo acho que a cor azul e suas variações de tom seria interessante para compor o site.
+
+3 - O azul se encaixa no tema, pois na psicologia das cores, uma das virtudes é a segurança. Interessante nesse caso pelo tema
+se tratar de uma tecnologia em que um dos principais pilares é a própria segurança.
+
+4 - Monocromática, Pelo intuito do site abordar o único tema da tecnologia Docker.
+
+5 - 
+
+#4592CC
+#bdcdda
+#3978A8
+#325875 subtitle
+#3E83B8
+*/
+body{
+    background-color: #bdcdda;
+}
+
+h2{
+    color: #3978A8;
+}
+
+.explicacoes{
+    color: #4592CC;
+}
+
+#titulo_principal{
+    color: #bdcdda; 
+    margin-left: 40%;
+}
+
+#cabecalho{
+    background-color: #3E83B8;
+    display: flex;
+}
+
+#titulo_principal:hover{
+    color: white;
+    cursor: pointer;
+}
+
+#link_referencia{
+    text-align: center;
+}
+
+#link_referencia:hover{
+    font-size: 18px;
+}
+
+#docker_logo{
+    width: 6%;
+}

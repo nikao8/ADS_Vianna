@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\bin\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\refint\semana6-algoritimo_ordenacao_insercao.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\semana6-algoritimo_ordenacao_insercao.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\semana6-algoritimo_ordenacao_insercao\obj\Debug\net7.0\ref\semana6-algoritimo_ordenacao_insercao.dll

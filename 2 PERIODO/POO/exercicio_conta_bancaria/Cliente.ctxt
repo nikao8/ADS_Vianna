@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=
+comment1.target=Cliente()
+comment2.params=
+comment2.target=java.util.ArrayList\ getContas()
+comment3.params=c
+comment3.target=void\ addConta(Conta)
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=cpf
+comment6.target=void\ setCpf(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCpf()
+comment8.params=salario
+comment8.target=void\ setSalario(double)
+comment9.params=
+comment9.target=double\ getSalario()
+numComments=10

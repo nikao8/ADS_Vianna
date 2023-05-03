@@ -1,0 +1,15 @@
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/bin/Debug/net7.0/ordenacao_insercao_2
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/bin/Debug/net7.0/ordenacao_insercao_2.deps.json
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/bin/Debug/net7.0/ordenacao_insercao_2.runtimeconfig.json
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/bin/Debug/net7.0/ordenacao_insercao_2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/bin/Debug/net7.0/ordenacao_insercao_2.pdb
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.csproj.AssemblyReference.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.AssemblyInfoInputs.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.AssemblyInfo.cs
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.csproj.CoreCompileInputs.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/refint/ordenacao_insercao_2.dll
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.pdb
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ordenacao_insercao_2.genruntimeconfig.cache
+/home/aluno/Estudos/ADS Vianna/2 PERIODO/ED/ordenacao_insercao_2/obj/Debug/net7.0/ref/ordenacao_insercao_2.dll

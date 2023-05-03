@@ -1,0 +1,16 @@
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.csproj.AssemblyReference.cache
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.AssemblyInfoInputs.cache
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.AssemblyInfo.cs
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.csproj.CoreCompileInputs.cache
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.exe
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.deps.json
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.runtimeconfig.json
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.runtimeconfig.dev.json
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.dll
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ref\ex3.dll
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\bin\Debug\net5.0\ex3.pdb
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.dll
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ref\ex3.dll
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.pdb
+D:\Estudos\ADS Vianna\1 SEMESTRE\FP\Revisao segunda prova\ex3\obj\Debug\net5.0\ex3.genruntimeconfig.cache

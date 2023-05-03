@@ -1,0 +1,15 @@
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\bin\Debug\net7.0\ex2.exe
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\bin\Debug\net7.0\ex2.deps.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\bin\Debug\net7.0\ex2.runtimeconfig.json
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\bin\Debug\net7.0\ex2.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\bin\Debug\net7.0\ex2.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\refint\ex2.dll
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.pdb
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ex2.genruntimeconfig.cache
+C:\Users\nicolas.marques\Documents\DEV\Estudos\ADS Vianna\2 PERIODO\ED\exercicios_revisao_1_prova\ex2\obj\Debug\net7.0\ref\ex2.dll
