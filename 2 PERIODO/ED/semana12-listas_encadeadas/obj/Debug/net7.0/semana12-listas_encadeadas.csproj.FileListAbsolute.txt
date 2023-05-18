@@ -1,0 +1,5 @@
+C:\Users\nicolas.marques\Documents\DEV\ADS_Vianna\2 PERIODO\ED\semana12-listas_encadeadas\obj\Debug\net7.0\semana12-listas_encadeadas.csproj.AssemblyReference.cache
+C:\Users\nicolas.marques\Documents\DEV\ADS_Vianna\2 PERIODO\ED\semana12-listas_encadeadas\obj\Debug\net7.0\semana12-listas_encadeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicolas.marques\Documents\DEV\ADS_Vianna\2 PERIODO\ED\semana12-listas_encadeadas\obj\Debug\net7.0\semana12-listas_encadeadas.AssemblyInfoInputs.cache
+C:\Users\nicolas.marques\Documents\DEV\ADS_Vianna\2 PERIODO\ED\semana12-listas_encadeadas\obj\Debug\net7.0\semana12-listas_encadeadas.AssemblyInfo.cs
+C:\Users\nicolas.marques\Documents\DEV\ADS_Vianna\2 PERIODO\ED\semana12-listas_encadeadas\obj\Debug\net7.0\semana12-listas_encadeadas.csproj.CoreCompileInputs.cache
