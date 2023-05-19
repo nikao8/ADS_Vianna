@@ -21,19 +21,20 @@ namespace semana12_listas_encadeadas{
 
             Console.ReadKey();
         }
-    }
 
-    private static void Imprimir(ListaEncadeada lista){
-        No aux = lista.Primeiro;
+        private static void Imprimir(ListaEncadeada lista)
+        {
+            No aux = lista.Primeiro;
 
-        Console.Write("Lista: ");
+            Console.Write("Lista: ");
 
-        while(aux != null){
-            Console.Write("{0,3}", aux.Valor);
+            while(aux != null){
+                Console.Write("{0,3}", aux.Valor);
 
-            aux = aux.Proximo;
+                aux = aux.Proximo;
+            }
+
+            Console.WriteLine();
         }
-
-        Console.WriteLine();
     }
 }
