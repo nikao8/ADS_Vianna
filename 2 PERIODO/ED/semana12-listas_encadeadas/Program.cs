@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace semana12_listas_encadeadas{
-    internal class Program
+    internal partial class Program
     {
         private static void Main(string[] args)
         {
@@ -18,7 +18,7 @@ namespace semana12_listas_encadeadas{
 
             lista.RemoverFinal();
             Imprimir(lista);
-            
+
             Console.ReadKey();
         }
     }
