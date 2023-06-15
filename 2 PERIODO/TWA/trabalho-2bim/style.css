@@ -1,0 +1,266 @@
+/* ALUNOS:
+Luís Henrique Hilario de Assis Santos
+Nicolas Marques Pacheco 
+*/
+
+/* TEORIA DAS CORES:
+Usamos os tons de verde na paleta monocromatica pois o verde está associado à natureza. transmitindo uma sensação de frescor e naturalidade, 
+o que pode ser atraente para os visitantes que procuram receitas refrescantes e relaxantes.
+*/
+
+/* TIPOGRAFIA:
+A Roboto foi usada no nosso site por ser legível em diferentes tamanhos e dispositivos, o que é essencial para uma experiência
+de leitura agradável em um site. 
+Sua forma limpa e nítida facilita a leitura de textos longos, como as nossas descrições de receitas de bebidas. Roboto possui um design contemporâneo,
+com linhas suaves e proporções equilibradas. Essa estética moderna se encaixa bem com a aparência geral do nosso site de bebidas,
+transmitindo uma sensação de sofisticação e atualidade.
+*/
+
+/* LAYOUT 
+No nosso cabeçalho com menu nos o colocamos no topo da página para fornecer uma navegação clara e fácil aos visitantes. 
+Isso permite que eles encontrem rapidamente as diferentes seções do nosso site.
+
+Ao usar uma div com dois grids centralizados, direcionamos a atenção do visitante para o conteúdo principal do nosso site que é
+a geração de receitas de drinks
+
+Ao centralizarmos os grids, garantimos que o layout do site se adapte a diferentes tamanhos de tela. 
+Isso é importante para fornecer uma boa experiência consistente para nossos usuários, independentemente de estarem acessando 
+o site em um desktop, tablet ou celular.
+
+Proporção:
+A propriedade grid-template-columns da classe .container define a proporção das colunas no layout, usando a unidade fr. Isso permite que as colunas se ajustem dinamicamente com base no espaço disponível.
+
+Ênfase:
+O cabeçalho possui um fundo colorido para se destacar na página.
+A classe .logo define um tamanho maior (width: 8.77vh) para o logotipo, enfatizando o logo.
+A cor do texto do título h1 é definida como preta, fornecendo destaque e contraste.
+
+Unidade:
+Várias propriedades, como largura, altura, preenchimento e margem, utilizam a unidade vh para dimensionar os elementos de acordo com a altura da tela.
+
+Ritmo:
+O espaçamento entre os elementos é cuidadosamente ajustado para criar um ritmo visual harmonico. Usamos o tipo de unidade de (vh)
+nas propriedades de espaçamento (padding e gap) permitindo que o ritmo se ajuste de forma responsiva com base no tamanho da tela.
+
+*/
+
+/*  COMPOSIÇÃO
+
+Ao dividirmos o conteúdo do nosso site em diferentes seções, como o cabeçalho, a div com dois grids e o rodapé,
+criamos uma estrutura organizada e coerente. Essa divisão clara ajuda os usuários a entenderem a hierarquia e a navegar facilmente pelo site,
+proporcionando uma experiência de usuário intuitiva.
+
+
+A estrutura das div com dois grids oferece flexibilidade para exibirmos diferentes tipos de consulta na API. 
+Cada grid exerce uma função específica, ficando claro que atraves do layout que desenhamos. 
+
+*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Roboto, sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.77vh;
+    background-color:  #88c2686c;
+    padding: 0 2.19vh;
+  }
+
+  h1{
+    color: #000000;
+  }
+
+  img{
+    max-width: 100%;
+  }
+
+  .logo {
+    width: 8.77vh;
+    padding-left: 1.64vh;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-left: 2.19vh;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #000000;
+  }
+  
+  nav ul li a:hover {
+    color: #959595;
+  }
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+    height: 100%;
+    padding: 8.77vh;
+    gap: 3.28vh;
+    text-align: center;
+    
+}
+  
+.coluna,
+.coluna2 {
+    width: 87.7vh;
+    height: 65.7vh;
+    background-color: #b2df98;
+    border-radius: 1.09vh;
+}
+
+.coluna3 {
+  width: 87.7vh;
+  height: 65.7vh;
+  background-color: #b2df98;
+  border-radius: 1.09vh;
+  grid-column: span 2;
+  justify-self: center;
+}
+
+.coluna img{
+    width: 27.4vh;
+}
+
+.coluna2 img{
+  width: 27.4vh;
+}
+
+.coluna3 img{
+  width: 27.4vh;
+}
+
+.resultPesquisa{
+    padding: 1.09vh;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 4.38vh;
+}
+
+.resultAleatorio{
+    padding: 1.09vh;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 4.38vh;
+}
+
+.resultNavegar{
+  padding: 1.09vh;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+  gap: 4.38vh;
+}
+
+#txtBusca,
+#pesquisar,
+#gerador,
+#anterior,
+#proximo
+{
+    font-size: 2.19vh;
+}
+
+#nome
+,#nome3
+,#nome2{
+    font-size: 2.19vh;
+    font-weight: bold;
+}
+
+footer{
+  text-align: center;
+  background-color: #88c2686c;
+ padding: 0.6%;
+}
+
+
+
+@media screen and (max-width: 131.57vh) {
+    .container {
+      grid-template-columns: 1fr;
+      padding: 2.19vh;
+    }
+}
+  
+@media screen and (max-width: 84.21vh) {
+    .coluna,
+    .coluna3,
+    .coluna2 {
+        width: 100%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 112.28vh) {
+    .container {
+      grid-template-columns: 1fr;
+      padding: 6.57vh;
+    }
+  
+    .coluna,
+    .coluna3,
+    .coluna2 {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+@media screen and (max-width: 84.21vh) {
+    header {
+        height: 6.57vh;
+    }
+
+    .logo {
+        width: 6.57vh;
+    }
+
+    nav ul li {
+        margin-left: 1.09vh;
+    }
+}
+
+
+@media screen and (max-width: 480px) {
+  footer {
+    padding: 2vh;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 1024px) {
+  footer {
+    padding: 1.5vh;
+  }
+}
+
+
+@media screen and (min-width: 1025px) {
+  footer {
+    padding: 1vh;
+  }
+}
+

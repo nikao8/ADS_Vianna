@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Receitas de drinks</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Receitas De Drink</h1>
+        <div class="logo">
+            <img src="./img/icon.png" alt="">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Sobre</a></li>
+                <li><a href="#">Contato</a></li>
+                <li><a href="#">Feedback</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        <div class="coluna">
+            <h2>Gerar bebida aleatória</h2>
+
+            <input type="submit" id="gerador" value="GERAR">
+            
+            <div class="resultAleatorio">
+                <span id="nome"> </span>
+                <img id="imagem" src="" alt="">
+                <span id="instrucoes"> </span>
+            </div>
+        </div>
+
+        <div class="coluna2">
+            <h2>Pesquisar bebida</h2>
+
+            <input type="text" id="txtBusca" placeholder="Digite uma bebida">
+            <input id="pesquisar" type="submit" value="Pesquisar">
+
+            <div class="resultPesquisa">
+                <span id="nome2"> </span>
+                <img id="imgPesquisa" src="" alt="">
+                <span id="instrucoes2"> </span>
+            </div>
+        </div>
+        
+        <div class="coluna3">
+            <h2>Navegar</h2>
+
+            <input type="submit" id="anterior" value="Anterior">
+            <input type="submit" id="proximo" value="Proximo">
+
+            <div class="resultNavegar">
+                <span id="nome3"> </span>
+                <img id="img3" src="" alt="">
+                <span id="instrucoes3"> </span>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div>
+            <p>© 2023 Receitas de Bebidas. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script type="module" src="./js/script.js"></script>
+</body>
+
+</html>
