@@ -30,7 +30,6 @@ async function carregaInformacoes(idInput, qtdInput) {
 function criarProduto(event) {
 	
   event.preventDefault();
-  console.log("Cheguei");
 
   const idInput = document.getElementById('id');
   const qtdInput = document.getElementById('qtd');
