@@ -1,0 +1,15 @@
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.csproj.AssemblyReference.cache
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.AssemblyInfoInputs.cache
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.AssemblyInfo.cs
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.csproj.CoreCompileInputs.cache
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/simulado_ed
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/simulado_ed.deps.json
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/simulado_ed.runtimeconfig.json
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/simulado_ed.dll
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/ref/simulado_ed.dll
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/bin/Debug/net6.0/simulado_ed.pdb
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.dll
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/ref/simulado_ed.dll
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.pdb
+/home/nikao/Documentos/DEV/ADS_Vianna/2 PERIODO/ED/exercicios_revisao_2_prova/simulado_ed/obj/Debug/net6.0/simulado_ed.genruntimeconfig.cache
